@@ -132,4 +132,30 @@ height: 80px;
   padding-bottom: 10px;
   margin-left: 10px;
 }
+.bottombg{
+    background-image: url(images/group22.png);
+    width:900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 20px 5px;
+    height: 150px;
+    margin-bottom: 100px;
+}
+.bottombg h1{
+    float:left;
+    margin-top: 40px;
+    font-size: 40px;
+    margin-left: 30px;
+    color:#fff;
+}
+.bottombg a{
+    float: right;
+    margin-top: 60px;
+    margin-right: 40px;
+    color: #fff;
+    background: brown;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
 
